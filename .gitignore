@@ -1,0 +1,30 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Compiled binary addons
+/build/Release
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variable file
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
